@@ -1,5 +1,9 @@
 # MIA #
-`Lightweight file share`  
+`Lightweight file transfer`  
+
+## 扩展开发
+1. 新增二维码扫码下载
+2. 新增手机上传文件，上传至upload目录
 
 ![Hi men!](http://i.imgur.com/MDAQg.png)
 
